@@ -1,3 +1,7 @@
+/**
+ * Marco Aldair de Jesus Caceres 18390579
+ */
+
 class Jugador{
     #caraDado1 = 0; 
     #caraDado2 = 0;
